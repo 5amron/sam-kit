@@ -18,7 +18,7 @@ setup(
     # https://packaging.python.org/en/latest/single_source_version.html
     version='1.0.1',
 
-    description='sam-kit Saman memoir in python'
+    description='sam-kit Saman memoir in python',
     long_description=long_description,
 
     # The project's main homepage.
